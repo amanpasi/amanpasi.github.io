@@ -17,12 +17,19 @@
 	color : #FFF;
 }
 #subh{
-	position : relative;
-	top : 110px;
-	left : 41%;
-	
+	position:relative;
+	left : 43%;
 }
+* { margin:0; padding:0; }
 
+#div2{
+	background-color:yellow;
+	width:100%;
+	position:relative;
+	top:133px;
+	left:0px;
+	right:0px;
+}
 
 #table{
 	background-color:#591021;
