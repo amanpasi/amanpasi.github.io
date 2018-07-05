@@ -1,20 +1,39 @@
-.head{
-	background-color: yellow;
-	border : 1px solid #000000;	
-	opacity: 0.5;
-	margin:0;
-	}
-#heading{
-	opacity: 1;
-	color : red;
+.heading{
+	background-color:#841F27;
+	box-shadow : 10px 10px 5px #888 ;
+	width:100%;
+	position: fixed;
+	top:0px;
+	left:0px;
+	opacity : 1;
+	overflow:auto;
+}
+
+#CN{
+	position : absolute;
+	font-size : 2.48rem;
+	top:0px;
+	left:300px;
+	color : #FFF;
+}
+#subh{
+	position : relative;
+	top : 110px;
+	left : 41%;
 	
-	}
-#SubHeading{
-	opacity: 1;
-	color : #000FFF;
-	}
-body{
-	background-image: url("http://iiitranchi.ac.in/logo.png") ;
-	background-size: 100%;
-	background-color: #841F27;
-	}
+}
+
+
+#table{
+	background-color:#591021;
+	color:#FFF;
+	border-collapse:collapse;
+	width:100%;
+	position:fixed;
+	top: 150px;
+	left:0px;
+}
+
+table,th,td{
+	border:0.5px solid black;	
+}
