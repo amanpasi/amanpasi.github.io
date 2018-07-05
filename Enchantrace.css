@@ -1,0 +1,20 @@
+.head{
+	background-color: yellow;
+	border : 1px solid #000000;	
+	opacity: 0.5;
+	margin:0;
+	}
+#heading{
+	opacity: 1;
+	color : red;
+	
+	}
+#SubHeading{
+	opacity: 1;
+	color : #000FFF;
+	}
+body{
+	background-image: url("http://iiitranchi.ac.in/logo.png") ;
+	background-size: 100%;
+	background-color: #841F27;
+	}
