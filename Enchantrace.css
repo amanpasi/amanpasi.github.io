@@ -7,18 +7,19 @@
 	left:0px;
 	opacity : 1;
 	overflow:auto;
+	
 }
 
 #CN{
 	position : absolute;
 	font-size : 2.48rem;
-	top:0px;
+	top:10px;
 	left:300px;
 	color : #FFF;
 }
 #subh{
 	position:relative;
-	left : 43%;
+	
 }
 * { margin:0; padding:0; }
 
@@ -26,7 +27,7 @@
 	background-color:yellow;
 	width:100%;
 	position:relative;
-	top:133px;
+	top:153px;
 	left:0px;
 	right:0px;
 }
@@ -37,11 +38,11 @@
 	border-collapse:collapse;
 	width:100%;
 	position:fixed;
-	top: 150px;
+	top: 170px;
 	left:0px;
 	right:0px;
 }
 
 table,th,td{
-	border:0.5px solid black;	
+	border:2px solid black;	
 }
