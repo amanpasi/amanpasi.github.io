@@ -1,5 +1,6 @@
 .heading{
-	background-color:#841F27;
+	border:2px solid gray;
+	background-color:#2f8899;
 	box-shadow : 10px 10px 5px #888 ;
 	width:100%;
 	position: fixed;
@@ -7,23 +8,25 @@
 	left:0px;
 	opacity : 1;
 	overflow:ellipsis;
+	font-size:;
+	text-overflow:ellipsis;
 }
 
 #CN{
 	position : absolute;
-	top:10px;
+	top:30px;
 	left:300px;
 	font-size : 2.48rem;
 	color : #FFF;
 }
 #subh{
 	position:relative;
-	
 }
 * { margin:0; padding:0; }
 
 #div2{
-	background-color:yellow;
+	border:2px solid gray;
+	background-color:lightsteelblue;
 	width:100%;
 	position:relative;
 	top:133px;
@@ -32,7 +35,7 @@
 }
 
 #table{
-	background-color:#591021;
+	background-color:rgb(14,41,45);
 	color:#FFF;
 	border-collapse:collapse;
 	width:100%;
@@ -40,8 +43,9 @@
 	top: 150px;
 	left:0px;
 	right:0px;
+	font-size : 100%;
 }
 
 table,th,td{
-	border:2px solid black;	
+	border:2px solid gray;	
 }
