@@ -1,1 +1,0 @@
-# amanpasi.github.io
